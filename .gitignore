@@ -2,6 +2,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-docer-compose.yaml
+docker-compose.yaml
 log/
 resources/products.json
